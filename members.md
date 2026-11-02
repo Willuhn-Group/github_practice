@@ -4,3 +4,4 @@
 |---|---|
 | Example Name | e.g. LFP coherence between two brain regions |
 Felice Veen | CNMF-e| 
+Jan Rijnbeek | Miniscope-behaviour alignment |
